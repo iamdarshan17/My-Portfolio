@@ -8,4 +8,4 @@
   ### CSS
   ### JavaScript
   
-  <img width="851" alt="portfolio-min" src="https://user-images.githubusercontent.com/55138445/195974682-4bd03ebb-7d25-4113-9aa0-c4381215b916.png">
+![Github-portfolio-Ss](https://user-images.githubusercontent.com/62028116/202498212-d7b92253-7093-44f7-bcf0-5610a8375d65.png)
